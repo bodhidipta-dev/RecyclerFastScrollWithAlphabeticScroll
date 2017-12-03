@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circle_1_size">90dp</dimen>
+    <dimen name="circle_2_size">180dp</dimen>
+    <dimen name="circle_3_size">270dp</dimen>
+    <dimen name="circle_4_size">360dp</dimen>
+    <dimen name="circle_5_size">380dp</dimen>
+
+    <dimen name="circle_1_size_zoom2">120dp</dimen>
+    <dimen name="circle_2_size_zoom2">240dp</dimen>
+    <dimen name="circle_3_size_zoom2">360dp</dimen>
+
+    <dimen name="circle_1_size_zoom3">200dp</dimen>
+    <dimen name="circle_2_size_zoom3">320dp</dimen>
+
+    <dimen name="circle_1_size_zoom4">240dp</dimen>
+    <dimen name="circle_2_size_zoom4">320dp</dimen>
+    <dimen name="circle_3_size_zoom4">370dp</dimen>
+
+    <dimen name="circle_1_size_zoom5">400dp</dimen>
+
+    <dimen name="text_size_for_graph">10sp</dimen>
+
+    <!--ZOOM control-->
+    <dimen name="circle_1_text_position_zoom1">18dp</dimen>
+    <dimen name="circle_2_text_position_zoom1">35dp</dimen>
+    <dimen name="circle_3_text_position_zoom1">50dp</dimen>
+    <dimen name="circle_4_text_position_zoom1">65dp</dimen>
+    <dimen name="circle_5_text_position_zoom1">80dp</dimen>
+
+    <dimen name="circle_1_text_position_zoom2">20dp</dimen>
+    <dimen name="circle_2_text_position_zoom2">45dp</dimen>
+    <dimen name="circle_3_text_position_zoom2">68dp</dimen>
+    <dimen name="circle_4_text_position_zoom2">85dp</dimen>
+
+    <dimen name="circle_1_text_position_zoom3">35dp</dimen>
+    <dimen name="circle_2_text_position_zoom3">60dp</dimen>
+    <dimen name="circle_3_text_position_zoom3">85dp</dimen>
+
+    <dimen name="circle_1_text_position_zoom4">40dp</dimen>
+    <dimen name="circle_2_text_position_zoom4">60dp</dimen>
+
+    <dimen name="circle_1_text_position_zoom5">70dp</dimen>
+</resources>
